@@ -18,7 +18,7 @@ Data scraping was done from the Apify platform. The collected data was uploaded 
             
 **Personalsachbearbeiter.pptx** - Presentation with visualizations and conclusions.
 
-            
+**************************************************************************************************************************************************************            
 
 
 
