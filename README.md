@@ -1,14 +1,14 @@
   ***PARSING AND ANALYSIS OF VACANCIES***
 
-Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.
+  Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.
 
-                        To draw conclusions about the skills required for the job and what the employer offers to the job seeker.
+To draw conclusions about the skills required for the job and what the employer offers to the job seeker.
                         
-                        Visualize the research.
+Visualize the research.
                         
-Realization: The project is implemented entirely in Python.
-
-            Data scraping was done from the Apify platform. The collected data was uploaded to the file parsing_personalsachbearbeiter270925.txt
+  Realization: The project is implemented entirely in Python.
+  
+Data scraping was done from the Apify platform. The collected data was uploaded to the file parsing_personalsachbearbeiter270925.txt
             
 **unpacking.py** - Create json file (parsing_personalsachbearbeiter.csv') for further work with data 
             
@@ -23,15 +23,15 @@ Realization: The project is implemented entirely in Python.
 
   ***PASSIEREN UND ANALYSIEREN VON VAKKEN***
 
-Ziel dieses Projekts: Analyse des deutschen Arbeitsmarkts für Personalsachbearbeiter für eine Online-Schule.
+  Ziel dieses Projekts: Analyse des deutschen Arbeitsmarkts für Personalsachbearbeiter für eine Online-Schule.
 
-                        Schlussfolgerungen über die für die Stelle erforderlichen Fähigkeiten und die Angebote des Arbeitgebers an den Bewerber ziehen.
-                        
-                        Visualisierung der Forschung.
-                        
-Umsetzung: Das Projekt wurde komplett in Python umgesetzt.
+Schlussfolgerungen über die für die Stelle erforderlichen Fähigkeiten und die Angebote des Arbeitgebers an den Bewerber ziehen.
 
-            Data Scraping wurde von der Apify-Plattform durchgeführt. Die gesammelten Daten wurden in die Datei parsing_personalsachbearbeiter270925.txt hochgeladen
+Visualisierung der Forschung.
+                        
+  Umsetzung: Das Projekt wurde komplett in Python umgesetzt.
+
+Data Scraping wurde von der Apify-Plattform durchgeführt. Die gesammelten Daten wurden in die Datei parsing_personalsachbearbeiter270925.txt hochgeladen
             
   **unpacking.py** - Erstellen einer json-Datei (parsing_personalsachbearbeiter.csv') für die weitere Arbeit mit den Daten 
             
@@ -46,15 +46,15 @@ Umsetzung: Das Projekt wurde komplett in Python umgesetzt.
 
 ***ПАРСИНГ И АНАЛИЗ ВАКАНСИ***
 
-Задача данного проекта: Для online школы проанализировать рынок труда Германии для специальности работник отдела кадров(Personalsachbearbeiter).
+  Задача данного проекта: Для online школы проанализировать рынок труда Германии для специальности работник отдела кадров(Personalsachbearbeiter).
 
-                        Сделать выводы какие навыки требуются для данной вакансии, что предлагает работодатель соискателю.
-                        
-                        Визуализировать исследование.
-                        
-Реализация: Проект реализован полностью на Python.
+Сделать выводы какие навыки требуются для данной вакансии, что предлагает работодатель соискателю.
 
-            Скрапинг данных происходил с платформы Apify. Собранные данные выгружены в файл parsing_personalsachbearbeiter270925.txt
+Визуализировать исследование.
+                        
+   Реализация: Проект реализован полностью на Python.
+
+Скрапинг данных происходил с платформы Apify. Собранные данные выгружены в файл parsing_personalsachbearbeiter270925.txt
             
   **unpacking.py** - Создание json файла (parsing_personalsachbearbeiter.csv') для дальнейшей работы с данными 
             
