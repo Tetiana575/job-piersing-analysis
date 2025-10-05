@@ -1,7 +1,7 @@
-**PARSING AND ANALYSIS OF VACANCIES**
-Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.
-                        To draw conclusions about the skills required for the job and what the employer offers to the job seeker.
-                        Visualize the research.
+**PARSING AND ANALYSIS OF VACANCIES**n/n/
+Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.n/
+                        To draw conclusions about the skills required for the job and what the employer offers to the job seeker.n/
+                        Visualize the research.n/
 Realization: The project is implemented entirely in Python.
             Data scraping was done from the Apify platform. The collected data was uploaded to the file parsing_personalsachbearbeiter270925.txt
             **unpacking.py** - Create json file (parsing_personalsachbearbeiter.csv') for further work with data 
