@@ -1,6 +1,6 @@
   ***PARSING AND ANALYSIS OF VACANCIES***
 
-\ Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.
+Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.
 
 To draw conclusions about the skills required for the job and what the employer offers to the job seeker.
                         
@@ -19,6 +19,7 @@ Data scraping was done from the Apify platform. The collected data was uploaded 
 **Personalsachbearbeiter.pptx** - Presentation with visualizations and conclusions.
 
             
+
 
 
   ***PASSIEREN UND ANALYSIEREN VON VAKKEN***
@@ -42,6 +43,7 @@ Data Scraping wurde von der Apify-Plattform durchgeführt. Die gesammelten Daten
   **Personalsachbearbeiter.pptx** - Präsentation mit Visualisierungen und Schlussfolgerungen.
 
             
+
 
 
 ***ПАРСИНГ И АНАЛИЗ ВАКАНСИ***
