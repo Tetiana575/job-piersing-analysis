@@ -41,8 +41,7 @@ Data Scraping wurde von der Apify-Plattform durchgeführt. Die gesammelten Daten
   **visualisations.py** - Erstellen von Visualisierungen für die Präsentation
             
   **Personalsachbearbeiter.pptx** - Präsentation mit Visualisierungen und Schlussfolgerungen.
-
-            
+**************************************************************************************************************************************************************          
 
 
 
