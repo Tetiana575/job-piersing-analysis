@@ -1,4 +1,4 @@
-**PARSING AND ANALYSIS OF VACANCIES**n/n/
+**PARSING AND ANALYSIS OF VACANCIES**n\n\
 Objective of this project: To analyze the German job market for Personalsachbearbeiter for an online school.n/
                         To draw conclusions about the skills required for the job and what the employer offers to the job seeker.n/
                         Visualize the research.n/
